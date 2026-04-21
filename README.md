@@ -1,23 +1,22 @@
-# proyecto-python-devops
+# 🐍 proyecto-python-devops
 
-Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
+Proyecto de práctica que combina **Python y conceptos DevOps**, útil como base para scripting, automatización o despliegue.
 
----
+![Python](https://img.shields.io/badge/Python-DevOps-blue?logo=python)
 
-## 📌 Objetivo
+## Descripción
 
-Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
+El repositorio une automatización con un stack Python, sirviendo como entorno de aprendizaje o demostración técnica.
 
-## 📁 Revisión recomendada
+## Objetivo
 
-Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
+Aplicar Python en un contexto cercano a operaciones, integración o automatización de tareas técnicas.
 
-```bash
-git clone git@github.com:Carl0gonzalez/proyecto-python-devops.git
-cd proyecto-python-devops
-```
+## Uso
 
-## 👤 Autor
+Revisa dependencias y scripts según la estructura concreta del proyecto.
+
+## Autor
 
 **Carlo González**
 
