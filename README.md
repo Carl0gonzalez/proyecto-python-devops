@@ -16,7 +16,5 @@ Aplicar Python en un contexto cercano a operaciones, integración o automatizaci
 
 Revisa dependencias y scripts según la estructura concreta del proyecto.
 
-## Autor
 
-**Carlo González**
 
